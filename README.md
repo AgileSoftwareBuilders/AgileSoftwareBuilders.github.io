@@ -2,5 +2,5 @@
 
 # Based on
 
-[Start Bootstrap](http://startbootstrap.com/) - [One Page Wonder](http://startbootstrap.com/template-overviews/one-page-wonder/)
+[Start Bootstrap](http://startbootstrap.com/) - [Agency template](http://startbootstrap.com/template-overviews/agency/)
 
