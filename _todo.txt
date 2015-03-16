@@ -5,3 +5,6 @@ Essentials:
 - Vervangen bollen
 - Verwijderen contactformulier
 
+Nice to haves:
+- Fix white color of logo
+- Cleanup js files, to ones we really need
