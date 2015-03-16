@@ -1,9 +1,9 @@
 Essentials:
 
-- Achtergrond foto start
 - Verwijderen contactformulier
 
 Nice to haves:
 - Bollen met foto's even groot maken
+- Meer fancy achtergrond gebruiken
 - Fix white color of logo
 - Cleanup js files, to ones we really need
