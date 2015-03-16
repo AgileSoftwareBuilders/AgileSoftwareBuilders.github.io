@@ -1,10 +1,9 @@
 Essentials:
 
-- Foto's Yves en Bert
 - Achtergrond foto start
-- Vervangen bollen
 - Verwijderen contactformulier
 
 Nice to haves:
+- Bollen met foto's even groot maken
 - Fix white color of logo
 - Cleanup js files, to ones we really need
