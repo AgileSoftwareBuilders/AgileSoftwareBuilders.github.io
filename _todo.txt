@@ -1,9 +1,11 @@
-Essentials:
-
+Before release:
 - Verwijderen contactformulier
 
-Nice to haves:
+Priority:
 - Bollen met foto's even groot maken
-- Meer fancy achtergrond gebruiken
 - Fix white color of logo
+- Meer fancy achtergrond gebruiken
+- Google analytics toevoegen
+
+Nice to have:
 - Cleanup js files, to ones we really need
