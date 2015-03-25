@@ -1,11 +1,8 @@
 Before release:
-- Verwijderen contactformulier
 
 Priority:
-- Bollen met foto's even groot maken
-- Fix white color of logo
 - Meer fancy achtergrond gebruiken
-- Google analytics toevoegen
+- Checken of contactformulier werkt
 
 Nice to have:
 - Cleanup js files, to ones we really need
