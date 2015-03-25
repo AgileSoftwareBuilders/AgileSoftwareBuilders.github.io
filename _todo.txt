@@ -1,0 +1,8 @@
+Before release:
+
+Priority:
+- Meer fancy achtergrond gebruiken
+- Checken of contactformulier werkt
+
+Nice to have:
+- Cleanup js files, to ones we really need
